@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+tabulate
+
+
+#criando um projeto eu devo identificar quais são os requerimentos da mesma e instalar no meu ambiente pelo cmd no
+#Python, pip list verifico os modulos e bibliotecas instalados
+# pip install -r requirements.txt  com esse comando ele instala todos os modulos do arquivo 'requirements.txt'
+
