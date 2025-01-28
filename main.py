@@ -32,8 +32,6 @@ estrategia = modelos.Estrategia(cotacao_atual_minima=0.0,
 # dados com pontos que no Brasil seriam considerados milhar, para o Python seria decimal oque acabaria acarretando erros
 
 locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')  # faço a conversão de tudo que vier do sistema brasileiro para
-
-
 #o sistema americano
 
 #agora faço uma função para tratar as % porcentagem que pro Python seria conhecido como resto
